@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 -<widget version="2.0.0" id="com.phonegap.hello-world" xmlns:gap="http://phonegap.com/ns/1.0" xmlns="http://www.w3.org/ns/widgets">  
-
+<name>test测试</name>
 <description> HelloThis i a sample application that responds to the deviceready event. </description>
 <author email="support@phonegap.com" href="http://phonegap.com"> PhoneGap Team </author> 
 <feature name="http://api.phonegap.com/1.0/device"/> <preference name="phonegap-version" value="2.0.0"/> 
